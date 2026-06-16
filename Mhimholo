@@ -1,0 +1,30 @@
+[
+  {
+    "name": "كوميكس توبيا (ComicsTopia)",
+    "baseUrl": "https://comicstopia.com/",
+    "lang": "ar",
+    "isNsfw": false,
+    "type": "comic"
+  },
+  {
+    "name": "عرب كوميكس (ArabComics)",
+    "baseUrl": "https://arabcomics.net/",
+    "lang": "ar",
+    "isNsfw": false,
+    "type": "comic"
+  },
+  {
+    "name": "كوميكس جيت (ComicsGate)",
+    "baseUrl": "https://www.comicsgate.net/",
+    "lang": "ar",
+    "isNsfw": false,
+    "type": "comic"
+  },
+  {
+    "name": "موقع الكوميكس العربي (The Arabic Comics)",
+    "baseUrl": "https://arabiccomics.com/",
+    "lang": "ar",
+    "isNsfw": false,
+    "type": "comic"
+  }
+]
